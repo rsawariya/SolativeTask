@@ -1,0 +1,40 @@
+.paginator-container {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.paginator-controls {
+    margin-bottom: 10px;
+}
+
+.records-per-page-input {
+    width: 50px;
+    margin-right: 5px;
+}
+
+.pagination {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagination li {
+    margin: 0 5px;
+}
+
+.current-page-results {
+    margin-top: 20px;
+}
+
+.current-page-results ul {
+    list-style: none;
+    padding: 0;
+}
+
+.current-page-results li {
+    margin-bottom: 5px;
+}
